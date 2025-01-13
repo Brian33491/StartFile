@@ -377,17 +377,16 @@ nav a:hover {
 }
 
 #footerWrapper {
-  background-color: cornsilk;
+  background-color: rgb(187, 173, 119);
 }
 
 footer {
   padding: 0.5rem 16px;
+  text-align: center;
 }
 footer p {
   margin: 0;
   font-weight: 300;
-  text-align: center;
-  color: black;
 }
 
 @media only screen and (min-width: 35rem) {

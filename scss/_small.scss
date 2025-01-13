@@ -61,15 +61,14 @@ nav{
 
 //footer
 #footerWrapper{
-  
-  background-color: cornsilk;
+  background-color: rgb(187, 173, 119);
 }
 footer{
   padding: 0.5rem $gutter ;
+  text-align: center;
+  
   p{
       margin: 0;
       font-weight: $lightWeight;
-      text-align: center;
-      color: black;
   }
 }
