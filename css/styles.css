@@ -375,9 +375,6 @@ nav a {
 nav a:hover {
   color: darkcyan;
 }
-nav #mainWrapper main.h1 {
-  color: black;
-}
 
 #footerWrapper {
   background-color: cornsilk;
